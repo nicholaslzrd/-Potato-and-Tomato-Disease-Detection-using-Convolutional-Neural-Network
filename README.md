@@ -1,0 +1,2 @@
+# Potato and Tomato Disease Detection using Convolutional Neural Network
+This is my final project during college. I made this for my thesis. I used Python language and choosed CNN algorithm because it was more efficient than other neural network algorithms, especially for memory and complexity. I collected the dataset needed from kaggle. The prediction results from this project was very accurate because the test accurac
